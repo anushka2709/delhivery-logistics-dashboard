@@ -1,0 +1,1 @@
+Avg Delivery Time = AVERAGE(fact_delivery_trip[actual_time]) 
